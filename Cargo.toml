@@ -1,0 +1,10 @@
+[package]
+name = "yag"
+version = "0.0.0"
+edition = "2021"
+
+[dependencies]
+
+anyhow = "1.0"
+thiserror = "1.0"
+
